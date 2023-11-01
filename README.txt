@@ -1,3 +1,5 @@
+image:https://quay.io/repository/echaudro/edebug/status["Docker Repository on Quay", link="https://quay.io/repository/echaudro/edebug"]
+
 This is just a general debug container based on the latest Fedora.
 
 
