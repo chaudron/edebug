@@ -49,4 +49,4 @@ RUN dnf -y update && \
 RUN pip install \
     pyftpdlib
 
-RUN echo 'PS1="\[\e[31m\]\360\237\216\251\357\270\216\[\e[0m\]$PS1"' >> /root/.bashrc
+RUN echo 'PS1="[(eDEBUG)\u@\h \W]\$ "' >> /root/.bashrc
